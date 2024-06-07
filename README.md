@@ -22,7 +22,7 @@ This script will let you set up your own VPN server in just a few minutes, even 
 First, download the script on your Linux server\*:
 
 ```bash
-wget -O amnezia.sh https://get.vpnsetup.net/wg
+wget -O amnezia.sh https://github.com/adhikara13/amnezia-install/raw/master/amnezia-install.sh
 ```
 
 **Option 1:** Auto install Amnezia using default options.
